@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manu_sen27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manu_sen27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manoj-kumar-sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-kumar-sen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manoj-kumar-sen-manu2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-kumar-sen" height="30" width="40" /></a>
 <a href="https://instagram.com/_.manu_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.manu_27" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/manojkumar2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manojkumar2020" height="30" width="40" /></a>
 </p>
